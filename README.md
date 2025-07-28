@@ -95,7 +95,6 @@ smart_attendance_bunk_planner/
 <p>
 <b>Yash Kakadiya</b> <br/>
 Built with curiosity, caffeine, and code 💻☕<br/>
-Made during a hackathon and perfect for learning & building your own smart tools!
 </p>
 
 <hr/>
