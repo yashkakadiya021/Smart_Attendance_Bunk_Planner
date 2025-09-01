@@ -22,6 +22,8 @@ Whether you're a student looking to plan your attendance smartly, or a beginner 
 
 <hr/>
 
+<img width="1056" height="481" alt="🎓 Smart Attendance Bunk Planner - visual selection" src="https://github.com/user-attachments/assets/7909f452-b038-4bd8-bc14-9b7b8b635304" />
+
 <h2>🧠 What Kind of Machine Learning is Used?</h2>
 <p>
 This project does <strong>not use advanced machine learning models</strong> like classification or deep learning — and that’s intentional.
@@ -50,6 +52,7 @@ Think of this as a project that introduces you to the <b>ML mindset</b> — befo
   <li> Warns if you're close to the danger zone</li>
   <li> Streamlit-powered interactive UI</li>
 </ul>
+
 
 <hr/>
 
