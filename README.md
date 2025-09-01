@@ -55,7 +55,6 @@ Think of this as a project that introduces you to the <b>ML mindset</b> — befo
 
 <h2>📸 Screenshot</h2>
 <p>
-  <i>Add your screenshot here:</i><br/>
   <img src="https://via.placeholder.com/700x400.png?text=Smart+Attendance+Bunk+Planner+Demo" width="80%"/>
 </p>
 
