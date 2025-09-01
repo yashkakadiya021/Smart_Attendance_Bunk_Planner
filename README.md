@@ -95,6 +95,11 @@ smart_attendance_bunk_planner/
   <li>🔔 Add notifications for warning zones</li>
   <li>📲 Export attendance plan as PDF</li>
   <li>📊 Weekly attendance tracker (dashboard)</li>
+
+<img width="696" height="264" alt="🎓 Smart Attendance Bunk Planner - visual selection (3)" src="https://github.com/user-attachments/assets/92819390-b30b-4b13-9cc4-6b3a48d383e9" />
+
+
+  
 </ul>
 
 <hr/>
