@@ -38,7 +38,13 @@ Instead, it uses a concept inspired by <strong>rule-based systems</strong> and <
   <li>🧮 It applies logic-based thresholds (just like classification boundaries in ML).</li>
   <li>📈 It helps you understand how small input changes affect output — the basis of data-driven decision-making.</li>
 </ul>
+<img width="874" height="528" alt="🎓 Smart Attendance Bunk Planner - visual selection (1)" src="https://github.com/user-attachments/assets/480a6d48-734e-443c-9096-9014cab343f1" />
 
+<p>
+
+</p>
+
+  
 <p><i>
 Think of this as a project that introduces you to the <b>ML mindset</b> — before you jump into algorithms. It’s a perfect first step!
 </i></p>
